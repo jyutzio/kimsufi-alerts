@@ -1,0 +1,8 @@
+[EMAIL]
+EMAIL_USER = source@gmail.com
+EMAIL_PASS = password
+EMAIL_DEST = destination@gmail.com
+
+[MODELS]
+KS01 = 1801sk12,FR
+KS02 = 1801sk13,FR
