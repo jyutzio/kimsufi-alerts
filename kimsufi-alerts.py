@@ -71,7 +71,7 @@ def main():
     if os.path.isfile(results_file):
         previous_results = json.load(open(results_file))
     else:
-        previous_results = []
+        return
 
     results = []
 
